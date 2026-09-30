@@ -1,0 +1,6 @@
+{
+  "name": "Front Street Animal Shelter - Sacramento",
+  "description": "Front Street Animal Shelter in Sacramento - animal rescue, pet adoption, veterinary care services, foster care, and lost & found pet tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
